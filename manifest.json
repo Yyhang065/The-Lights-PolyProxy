@@ -1,0 +1,8 @@
+{
+  "name": "PolyProxy Test",
+  "author": "Yuhang / experimental",
+  "id": "polyproxy-test",
+  "latest": {
+    "0.6.2": "1.1.10-test"
+  }
+}
