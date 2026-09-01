@@ -1,11 +1,12 @@
 # PolyProxy Test
 
-Experimental PolyModLoader 0.6.2 mod based on PolyProxy 1.1.9.
+Working PolyModLoader 0.6.2 mod based on PolyProxy 1.1.9.
 
 Files:
 - manifest.json
-- 1.1.10-test/version.json
-- 1.1.10-test/main.mod.js
-- 1.1.10-test/description.html
+- 1.1.11/version.json
+- 1.1.11/main.mod.js
+- 1.1.11/description.html
+- 1.1.11/icon.png
 
-Important: this is an experimental build. It has not been verified against a live leaderboard request
+Working mod which changes URLs to enable Leaderboards in the Unofficial Polytrack, PolyModLoader 0.6.2
