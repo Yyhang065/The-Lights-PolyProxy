@@ -1,7 +1,7 @@
 {
-  "name": "PolyProxy Test",
-  "author": "TheLight / experimental",
-  "id": "polyproxy-test",
+  "name": "The Light's PolyProxy",
+  "author": "The Light",
+  "id": "the-lights-polyproxy",
   "latest": {
     "0.6.2": "1.1.10"
   }
